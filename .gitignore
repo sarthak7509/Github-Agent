@@ -1,0 +1,24 @@
+# --- Python Bytecode ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual Environments ---
+venv/
+.venv/
+env/
+.env/
+bin/
+lib/
+share/
+pyvenv.cfg
+
+# --- Environment & Secret Files ---
+.env.local
+.env.*
+.flaskenv
+
+# --- IDEs & System Files ---
+.vscode/
+.idea/
+.DS_Store

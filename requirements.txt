@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain-openai
+langgraph
+langgraph-checkpoint-redis
+redis
+fastmcp
+PyGithub
+python-dotenv
